@@ -6,6 +6,7 @@ UUID for each request. Lua gives you an opportunity to do some more intelligent 
 you want. All responses are logged to a file called `access.log`
 
 This project serves a couple of purposes:
+
 1. It's a simple pixel tracker that logs all requests with the raw request data to a log file
 2. It's a default lua project for OpenResty that shows you how to leverage access filters and response
 filters. 
