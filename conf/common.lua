@@ -1,3 +1,5 @@
+-- Copyright 2014 - Rick Crawford - https://github.com/rickcrawford
+
 local common = {}
 local module = common
 
